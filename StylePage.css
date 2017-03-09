@@ -1,0 +1,61 @@
+h1{
+  text-align: center;
+}
+
+body{
+  background-color:    #d9b3ff;
+  color:  #ffffff;
+}
+
+h2{
+  text-align: center
+}
+
+p {
+  margin: 0% 10% 0% 10%;
+  font-size: 18px;
+}
+
+.dog{
+  margin: 0px 0px 0px 120px
+}
+
+.pinapple{
+    margin: 0px 0px 0px 30px
+}
+
+.sign{
+    margin: 0px 0px 0px 30px
+}
+
+.sun{
+    margin: 5px 70px 5px 450px
+}
+
+.crab{
+    margin: 5px 70px 5px 470px
+}
+
+.paddle{
+    margin: 0px 0px 0px 30px
+}
+
+.car{
+    margin: 0px 0px 0px 110px
+}
+
+.icecream{
+    margin: 0px 0px 0px 30px
+}
+
+.surf{
+    margin: 0px 0px 0px 120px
+}
+
+.fish{
+    margin: 0px 0px 0px 30px
+}
+
+.shells{
+    margin: 0px 0px 0px 30px
+}
